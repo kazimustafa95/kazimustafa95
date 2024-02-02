@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Mustafa Kazi - Senior Full-Stack Developer
-![Top Rated Upwork Profile](https://www.upwork.com/profiles/images/uploads/2018/03/27/profilephoto.jpg)
+![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:640/format:webp/1*KjdqftTalB2el8EjtEXKYQ.png)
 ## Introduction
 Hello! I'm Mustafa Kazi, a Senior Full-Stack Developer with over 10 years of experience. Specializing in WordPress, PHP/Laravel, and e-commerce solutions, I have a proven track record of delivering top-tier web solutions, enhancing business operations, and driving digital growth.
 
