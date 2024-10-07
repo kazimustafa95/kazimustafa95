@@ -36,8 +36,8 @@ Hello! I'm Mustafa Kazi, a Senior Full-Stack Developer with over 10 years of exp
 I hold a Bachelor’s Degree in Computer Science, supplemented by continuous professional development. As a seasoned web developer, I blend technical expertise with a creative approach to solve complex problems. My focus is on delivering high-quality, efficient web solutions that exceed client expectations.
 
 ## Contact Information
-If you're looking to transform your web presence with a skilled Full-Stack Developer, let's connect and explore how my expertise can propel your project to success. You can reach me via email at [kazi.mustafa95@gmail.com](mailto:kazi.mustafa95@gmail.com) or visit my UpWork profile [here](https://www.upwork.com/workwith/mustafakazi).
+If you're looking to transform your web presence with a skilled Full-Stack Developer, let's connect and explore how my expertise can propel your project to success. You can reach me via email at [kazi.mustafa95@gmail.com](mailto:kazi.mustafa95@gmail.com) or visit my UpWork profile [here](https://www.upwork.com/freelancers/mustafakazi).
 
 ## Available Services
-For inquiries regarding my services, please feel free to contact me directly. I offer my services at a rate of $65.00 per hour.
+For inquiries regarding my services, please feel free to contact me directly. I offer my services at a rate of $25.00 per hour.
 
